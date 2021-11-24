@@ -1,0 +1,24 @@
+{
+  "name": "crud_gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Droid85/crud_gulp.git"
+  },
+  "author": "Andrii Ostapenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Droid85/crud_gulp/issues"
+  },
+  "homepage": "https://github.com/Droid85/crud_gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
